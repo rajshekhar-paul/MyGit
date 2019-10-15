@@ -4,5 +4,5 @@ class HelloGit
 {
 	public static void main(String args[]){
 	sysout(Welcome to git");
-}
+	}
 }
