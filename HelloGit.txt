@@ -3,6 +3,6 @@ This is my Java application file
 class HelloGit
 {
 	public static void main(String args[]){
-	sysout(Welcome to git");
+	system.out.println(Welcome to git");
 	}
 }
