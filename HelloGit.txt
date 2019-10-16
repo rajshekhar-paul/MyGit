@@ -2,8 +2,10 @@
 
 class HelloGit
 {
-	static String myMethod(){
-		retun("Mymethod");
+
+	public static String myMethod(String str){
+		retun str;
+	 
 	}
 	public static void main(String args[]){
 	myMethod();
