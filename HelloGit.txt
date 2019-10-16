@@ -1,8 +1,8 @@
-This is my Java application file
+//This is my Java application file
 
 class HelloGit
 {
 	public static void main(String args[]){
-	system.out.println(Welcome to git");
+	System.out.println(Welcome to git");
 	}
 }
